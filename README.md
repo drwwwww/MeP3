@@ -23,6 +23,6 @@ A lightweight desktop app to convert YouTube videos into MP3 audio files using a
 ## 📦 How to Run
 
 ```bash
-git clone https://github.com/yourusername/MeP3.git
+git clone https://github.com/drwwwww/MeP3.git
 cd MeP3
 python main.py
