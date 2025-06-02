@@ -2,7 +2,6 @@
 
 A lightweight desktop app to convert YouTube videos into MP3 audio files using a simple and modern GUI.
 
-![screenshot](screenshot.png) <!-- Optional: Add an app screenshot here -->
 
 ## 🚀 Features
 
